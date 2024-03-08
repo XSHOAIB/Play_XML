@@ -23,10 +23,21 @@ It is important (for all types of software developers!) to have a good understan
 </note>
 
 Output - 
-# Note
+**Note**
 To: Tove
 
 From: Jani
 
-# Reminder
+**Reminder**
 Don't forget me this weekend!
+
+# XML Simplifies Things?
+- XML simplifies data sharing
+- XML simplifies data transport
+- XML simplifies platform changes
+- XML simplifies data availability
+
+Many computer systems contain data in incompatible formats. Exchanging data between incompatible systems (or upgraded systems) is a time-consuming task for web developers. Large amounts of data must be converted, and incompatible data is often lost.
+XML stores data in plain text format. This provides a software- and hardware-independent way of storing, transporting, and sharing data.
+XML also makes it easier to expand or upgrade to new operating systems, new applications, or new browsers, without losing data.
+With XML, data can be available to all kinds of "reading machines" like people, computers, voice machines, news feeds, etc.
